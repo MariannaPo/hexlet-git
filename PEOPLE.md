@@ -1,1 +1,1 @@
-Haskell Curry
+Ha-ha-ha
